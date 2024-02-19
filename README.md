@@ -3,4 +3,4 @@ Simple blog application written in Kotlin that utilizes Spring Data JPA for pers
 
 # Execution
 To run execute the following:
-'''mvn spring-boot:run'''
+```mvn spring-boot:run```
